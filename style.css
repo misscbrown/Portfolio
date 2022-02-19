@@ -1,6 +1,17 @@
-.section {
-    margin: 50px;
-    border-bottom: 10px;
+.card-junior {
+    align-items: center;
+    align-content: center;
+    align-self: center;
+}
+
+.card-style {
+    margin-left: 15px;
+    align-items: flex-start;
+}
+
+.card-password {
+    margin-left: 15px;
+
 }
 
 .card-header {
