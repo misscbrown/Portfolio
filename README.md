@@ -6,7 +6,7 @@ A website that showcases the applications I have built, during my time on the bo
 
 This application will be a work in progress, I will add more styling, additional links, updated applications and incorporate javascript to some elements.
 
-Deployed application: https://misscbrown.github.io/Portfolio/
+Deployed application: https://misscbrown.github.io/Portfolio/Develop/
 
 
 ![screenshot](screenshot1.png)
