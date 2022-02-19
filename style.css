@@ -2,3 +2,19 @@
     margin: 50px;
     border-bottom: 10px;
 }
+
+.card-header {
+    background-color: rgb(225, 201, 248);
+}
+
+.list-group-item {
+    background-color: rgb(225, 201, 248);
+}
+
+.btn-secondary {
+    background-color: rgb(149, 123, 175);
+}
+
+/* .card-body {
+    background-color: blueviolet;
+} */
